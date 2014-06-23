@@ -1,0 +1,10 @@
+Richards-MacBook-2:Lab2 Richard$ python3 CtoFConvertor.py
+Please enter a degree in Celsius: 5
+5  Celsius is  41.0 Farenheit
+Richards-MacBook-2:Lab2 Richard$ python3 CtoFConvertor.py
+Please enter a degree in Celsius: 0
+0  Celsius is 32.0 Farenheit
+Richards-MacBook-2:Lab2 Richard$ python3 CtoFConvertor.py
+Please enter a degree in Celsius: 100
+100  Celsius is 212.0 Farenheit
+Richards-MacBook-2:Lab2 Richard$ 

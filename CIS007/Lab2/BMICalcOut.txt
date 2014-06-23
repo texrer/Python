@@ -1,0 +1,9 @@
+Richards-MacBook-2:Lab2 Richard$ python3 BMICalc.py
+Enter weight in pounds:95.5
+Enter height in inches:50
+BMI is: 26.857257942215885
+Richards-MacBook-2:Lab2 Richard$ python3 BMICalc.py
+Enter weight in pounds:95.5
+Enter height in inches:50
+BMI is: 26.8573
+Richards-MacBook-2:Lab2 Richard$ 

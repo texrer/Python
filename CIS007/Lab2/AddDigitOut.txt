@@ -1,0 +1,13 @@
+Richards-MacBook-2:Lab2 Richard$ python3 AddDigit.py
+Enter a number between 0 and 1000:1000
+The sum of the digits is: 1
+Richards-MacBook-2:Lab2 Richard$ python3 AddDigit.py
+Enter a number between 0 and 1000:976
+The sum of the digits is: 22
+Richards-MacBook-2:Lab2 Richard$ python3 AddDigit.py
+Enter a number between 0 and 1000:65
+The sum of the digits is: 11
+Richards-MacBook-2:Lab2 Richard$ python3 AddDigit.py
+Enter a number between 0 and 1000:12
+The sum of the digits is: 3
+Richards-MacBook-2:Lab2 Richard$ 

@@ -1,0 +1,11 @@
+Richards-MacBook-2:Lab2 Richard$ python3 AccumulatedValue.py
+Enter Investment Amount:1000
+Enter Annual Interest Rate:4.25
+Enter Number of Years:1
+Accumulated value is 1043.34
+Richards-MacBook-2:Lab2 Richard$ python3 AccumulatedValue.py
+Enter Investment Amount:2000
+Enter Annual Interest Rate:5.65
+Enter Number of Years:2
+Accumulated value is 2238.67
+Richards-MacBook-2:Lab2 Richard$ 
